@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Amir-Pourhadi
+- 👀 I’m interested in Web Developing & Designing!
+- 🌱 I’m currently learning Node.JS!
+- 📫 You can keep in touch with email: Alex.CE1379@Gmail.com
