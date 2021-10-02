@@ -3,7 +3,7 @@
 </a>
 
 # Hey! Nice to see you. 😎
-Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.
+**Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.**
 
 ### Things I familiar with
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
