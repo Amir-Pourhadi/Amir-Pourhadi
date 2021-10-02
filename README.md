@@ -1,7 +1,3 @@
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet" />
-</a>
-
 # Hey! Nice to see you. 😎
 Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.
 
