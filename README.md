@@ -1,8 +1,30 @@
-[![Profile View Counter](https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet)](https://github.com/antonkomarev/github-profile-views-counter)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet" />
+</a>
 
-- 👋 Hi, I’m Amir Pourhadi!
-- 👀 I’m interested in Developing & Designing Websites!
-- 🌱 I’m currently learning Node.JS!
+<h1>Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.
+
+### Things I code with
+
+![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![sas](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![react](https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![react router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![styled component](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![redux](https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
+![node js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
+![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
 <div>
   <a href="https://github-readme-stats.vercel.app/">
