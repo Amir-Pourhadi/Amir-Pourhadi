@@ -2,6 +2,24 @@
   <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
 </a>
 
+<a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+</a>
+
+<a href="https://github.com/Amir-Pourhadi?tab=repositories">
+  <img src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+</a>
+
+<a href="https://badges.pufler.dev">
+  <img src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+</a>
+
+<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+<a href="https://www.google.com/chrome" >
+  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+</a>
+
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
 
 > **I'm Amir, 👨🏻‍💻 Full Stack Web Developer from Esfahan, Iran.**
@@ -11,6 +29,8 @@
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+  <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -28,9 +48,13 @@
   <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
+  <img alt="adobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+  <img alt="PhotoShop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white" />
 </div>
 
 <h3>📈 My GitHub Stats</h3>
