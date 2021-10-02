@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet" />
 </a>
 
-# Hey! Nice to see you. 😎
+# Hey! Nice to see you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎
 > **Welcome to my page! </br> I'm Amir, 👨🏻‍💻 Full Stack Web Developer from Esfahan, Iran.**
 
 ### Things I am familiar with
