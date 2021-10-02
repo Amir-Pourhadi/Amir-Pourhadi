@@ -4,7 +4,7 @@
 - 📫 You can keep in touch with email: Alex.CE1379@Gmail.com
 
 <div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&layout=compact" />
 </div>
