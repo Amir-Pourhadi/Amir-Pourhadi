@@ -14,7 +14,9 @@
   <img src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
 </a>
 
-<img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<a href="https://www.microsoft.com/en-us/windows">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+</a>
 
 <a href="https://www.google.com/chrome" >
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
