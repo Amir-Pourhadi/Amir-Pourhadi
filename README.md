@@ -15,7 +15,7 @@
   <a href="#">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&layout=compact" />
   </a>
-  <a href="https://wakatime.com/AmirPourhadi" target="/">
+  <a href="https://wakatime.com/AmirPourhadi">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&langs_count=6&layout=compact" />
   </a>
 </div>
