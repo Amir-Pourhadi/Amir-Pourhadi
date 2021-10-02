@@ -5,7 +5,8 @@
 - 🌱 I’m currently learning Node.JS!
 - 📫 You can keep in touch with email: Alex.CE1379@Gmail.com
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub%20Stats&border_radius=15)](#)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub%20Stats&border_radius=15)](#)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi&hide_boder=true)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&border_radius=15&layout=compact)](#)
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&langs_count=6&border_radius=15&layout=compact)](#)
