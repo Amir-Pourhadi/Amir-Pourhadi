@@ -34,7 +34,7 @@
 
 <br />
 <details>
-  <summary>📈 My GitHub Stats</summary>
+  <summary>📈 My GitHub Stats</summary><br>
   <div>
     <a href="https://github-readme-stats.vercel.app/">
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary>🏆 Github Profile Trophy</summary>
+  <summary>🏆 Github Profile Trophy</summary><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
   </a>
