@@ -8,7 +8,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub%20Stats&border_radius=15)](#)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&border_radius=15&layout=compact)](#)
-  &nbsp;
   [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&langs_count=6&border_radius=15&layout=compact)](#)
 
 
