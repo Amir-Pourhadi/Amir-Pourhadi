@@ -3,9 +3,10 @@
 </a>
 
 <h1>Hey! Nice to see you. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎</h1>
+
 > **Welcome to my page! </br> I'm Amir, 👨🏻‍💻 Full Stack Web Developer from Esfahan, Iran.**
 
-<h3>Things I am familiar with</h3>
+<h3>🎓 I am familiar with</h3>
 <div>
   <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -34,7 +35,7 @@
 
 <br />
 <details>
-  <summary><h3>📈 My GitHub Stats</h3></summary><br>
+  <summary><b>📈 My GitHub Stats</b></summary><br>
   <div>
     <a href="https://github-readme-stats.vercel.app/">
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
@@ -54,11 +55,11 @@
 </details>
 
 <details>
-  <summary><h2>🏆 Github Profile Trophy</h2></summary><br>
+  <summary><b>🏆 Github Profile Trophy</b></summary><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
   </a>
 </details>
 
 
-[https://hit.yhype.me/github/profile?user_id=48559675]
+[](https://hit.yhype.me/github/profile?user_id=48559675)
