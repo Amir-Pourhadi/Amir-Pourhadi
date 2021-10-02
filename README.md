@@ -5,7 +5,7 @@
 # Hey! Nice to see you. 😎
 **Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.**
 
-### Things I familiar with
+### Things I am familiar with
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![sas](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
