@@ -87,6 +87,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
 </a>
 
+<details>
+  <summary><b>📊 My Coding Stats</b></summary><br>
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+</details>
 
 
 [](https://hit.yhype.me/github/profile?user_id=48559675)
