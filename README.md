@@ -2,11 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet" />
 </a>
 
-<h1>Hey! Nice to see you. <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+# Hey! Nice to see you. 😎
 Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.
 
-### Things I code with
-
+### Things I familiar with
 ![html5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![sas](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
@@ -26,6 +25,7 @@ Welcome to my page! </br> I'm Amir, Full Stack Web Developer from Esfahan, Iran.
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
+<br>
 <div>
   <a href="https://github-readme-stats.vercel.app/">
     <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub+Stats" />
