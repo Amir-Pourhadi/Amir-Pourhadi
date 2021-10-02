@@ -28,7 +28,7 @@
 
 <h3>🎓 I am familiar with</h3>
 <div>
-  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
