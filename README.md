@@ -1,11 +1,12 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Profile+Views&color=blueviolet)
+
 - 👋 Hi, I’m Amir Pourhadi!
-- 👀 I’m interested in Web Developing & Designing!
+- 👀 I’m interested in Developing & Designing Websites!
 - 🌱 I’m currently learning Node.JS!
-- 📫 You can keep in touch with email: Alex.CE1379@Gmail.com
 
 <div>
   <a href="#">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub%20Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub+Stats" />
   </a>
   <a href="#">
     <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi" />
@@ -24,3 +25,5 @@
 <a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=onedark&margin-w=30&no-bg=true&no-frame=true" />
 </a>
+
+![](https://hit.yhype.me/github/profile?user_id=48559675)
