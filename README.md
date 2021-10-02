@@ -8,6 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&layout=compact" />
 </div>
 
-<h3>🏆 Github Profile Trophy</h3>
+<h3>
+<a href="https://github.com/ryo-ma/github-profile-trophy">🏆</a> Github Profile Trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&title=Commit,Repository,Star,PullRequest,Followers&theme=onedark&margin-w=20&no-bg=true&no-frame=true)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&title=Commit,Repository,Star,PullRequest,Followers&theme=onedark&margin-w=60&no-bg=true&no-frame=true)](#)
