@@ -12,4 +12,4 @@
 <h3>
 <a href="https://github.com/ryo-ma/github-profile-trophy">🏆</a> Github Profile Trophy</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-Pourhaditheme=onedark&margin-w=70&no-bg=true&no-frame=true)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=onedark&margin-w=70&no-bg=true&no-frame=true)](#)
