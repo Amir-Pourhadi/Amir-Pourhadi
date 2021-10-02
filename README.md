@@ -25,8 +25,5 @@
 <a href="#">
   <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=onedark&margin-w=30&no-bg=true&no-frame=true" />
 </a>
-<<<<<<< HEAD
 
 ![](https://hit.yhype.me/github/profile?user_id=48559675)
-=======
->>>>>>> 2e227447ecc3420e63645000bb8b409417fd5eed
