@@ -7,12 +7,10 @@
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&count_private=true&show_icons=true&custom_title=GitHub%20Stats&border_radius=15)](#)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&border_radius=15)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&border_radius=15&layout=compact)](#)
 
-
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi)](#)
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&layout=compact)](#)
 
 
 ### [🏆](https://github.com/ryo-ma/github-profile-trophy)  Github Profile Trophy
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=onedark&margin-w=30&no-bg=true&no-frame=true)](#)
