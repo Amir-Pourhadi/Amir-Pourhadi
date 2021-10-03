@@ -2,6 +2,10 @@
   <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
 </a>
 
+<a href="https://github.com/chetanraj/awesome-github-badges">
+  <img src="https://img.shields.io/badge/Made%20With-Love-red" />
+</a>
+
 <a href="https://badges.pufler.dev">
   <img src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
 </a>
@@ -22,6 +26,10 @@
   <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
 </a>
 
+<a href="https://code.visualstudio.com/">
+  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+<a/>
+  
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
 
 > **I'm Amir, 👨🏻‍💻 Full Stack Web Developer from Esfahan, Iran.**
@@ -30,7 +38,6 @@
   <summary><b>🎓 My Knowledge</b></summary><br>
 
   <div>
-    <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
