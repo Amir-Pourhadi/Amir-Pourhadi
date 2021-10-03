@@ -27,7 +27,7 @@
 > **I'm Amir, 👨🏻‍💻 Full Stack Web Developer from Esfahan, Iran.**
 
 <details>
-  <summary><b>🎓 My Knowledge</b></summary>
+  <summary><b>🎓 My Knowledge</b></summary><br>
 
   <div>
     <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white" />
@@ -67,7 +67,7 @@
 </details>
 
 <details>
-  <summary><b>📈 My GitHub Stats</b></summary>
+  <summary><b>📈 My GitHub Stats</b></summary><br>
 
   <div>
     <a href="https://github-readme-stats.vercel.app/">
@@ -88,7 +88,7 @@
 </details>
 
 <details>
-  <summary><b>🏆 My Github Profile Trophy</b></summary>
+  <summary><b>🏆 My Github Profile Trophy</b></summary><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
@@ -97,8 +97,6 @@
 
 <details>
   <summary><b>📊 My Coding Stats</b></summary><br>
-  
-  [](https://hit.yhype.me/github/profile?user_id=48559675)
   
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109234%20lines%20of%20code-blue)
@@ -160,7 +158,9 @@ Java                     1 repo              █░░░░░░░░░░�
  Last Updated on 02/10/2021
 <!--END_SECTION:waka-->
   
+  [](https://hit.yhype.me/github/profile?user_id=48559675)
 </details>
+
 
 
 
