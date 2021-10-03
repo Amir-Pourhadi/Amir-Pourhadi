@@ -88,7 +88,7 @@
 </a>
 
 <details>
-  <summary><b>📊 My Coding Stats</b></summary><br>
+  <summary><font size="5">📊 My Coding Stats</font></summary><br>
   
   [](https://hit.yhype.me/github/profile?user_id=48559675)
   
