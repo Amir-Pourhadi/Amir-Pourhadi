@@ -1,34 +1,34 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
 </a>
 
 <a href="https://github.com/chetanraj/awesome-github-badges">
-  <img src="https://img.shields.io/badge/Made%20With-Love-red" />
+  <img alt="love" src="https://img.shields.io/badge/Made%20With-Love-red" />
 </a>
 
 <a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+  <img alt="years" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
 </a>
 
 <a href="https://github.com/Amir-Pourhadi?tab=repositories">
-  <img src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+  <img alt="repos" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
 </a>
 
 <a href="https://badges.pufler.dev">
-  <img src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+  <img alt="commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
 </a>
 
-<a href="https://www.microsoft.com/en-us/windows">
-  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+<a href="https://microsoft.com/en-us/windows">
+  <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 </a>
 
-<a href="https://www.google.com/chrome" >
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+<a href="https://google.com/chrome" >
+  <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
 </a>
 
 <a href="https://code.visualstudio.com/">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
-<a/>
+  <img alt="vscode" alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+</a>
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
 
@@ -37,40 +37,116 @@
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
 
-  <div>
+  <a href="https://edclub.com/typingclub">
+    <img alt="fast typing" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
+  </a>
+  <a href="https://prettier.io">
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com">
     <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  </a>
+  <a href="https://github.com">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  </a>
+  <a href="https://gitlab.com">
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+  </a>
+  <a href="https://bitbucket.org">
     <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
-    <br>
+  </a>
+  <br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  </a>
+  <a href="https://sass-lang.com">
     <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  </a>
+  <a href="https://getbootstrap.com">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  </a>
+  <a href="https://jquery.com">
     <img alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
-    <br>
+  </a>
+  <br>
+  <a href="https://reactjs.org">
     <img alt="React" src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  </a>
+  <a href="https://redux.js.org">
     <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+  </a>
+  <a href="https://npmjs.com">
     <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  </a>
+  <a href="https://reactrouter.com">
     <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
-    <img alt="Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
-    <br>
+  </a>
+  <a href="https://styled-components.com">
+    <img alt="Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components& logoColor=white" />
+  </a>
+  <br>
+  <a href="https://nodejs.org">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://babeljs.io">
+    <img alt="Babel" src="https://img.shields.io/badge/babel-yellow?style=flat-square&logo=babel&logoColor=white" />
+  </a>
+  <a href="https://webpack.js.org">
     <img alt="WebPack" src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white" />
+  </a>
+  <a href="https://eslint.org">
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+  </a>
+  <a href="https://expressjs.com">
     <img alt="Express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+  </a>
+  <a href="https://mongodb.com">
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  </a>
+  <a href="https://postman.com">
     <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-    <br>
+  </a>
+  <br>
+  <a href="https://netlify.com">
     <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://heroku.com">
     <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  </a>
+  <a href="https://ubuntu.com">
     <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
+  </a>
+  <a href="https://trello.com">
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
+  </a>
+  <a href="https://adobe.com/products/xd.html">
     <img alt="adobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+  </a>
+  <a href="https://adobe.com/products/photoshop.html">
     <img alt="PhotoShop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white" />
-  </div>
+  </a>
+  <br>
+  <a href="https://adobe.com/products/photoshop.html">
+    <img alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+  </a>
+  <a href="https://adobe.com/products/photoshop.html">
+    <img alt="word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+  </a>
+  <a href="https://adobe.com/products/photoshop.html">
+    <img alt="powerpoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
+  </a>
+  <a href="https://adobe.com/products/photoshop.html">
+    <img alt="excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  </a>
+  <a href="https://adobe.com/products/photoshop.html">
+    <img alt="access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
+  </a>
 </details>
 
 <details>
