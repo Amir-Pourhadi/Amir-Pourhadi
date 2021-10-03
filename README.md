@@ -53,7 +53,7 @@
     <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
   </a>
   <a href="https://bitbucket.org">
-    <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
+    <img alt="BitBucket" src="https://img.shields.io/badge/bitbucket-%230047B3?style=flat-square&logo=bitbucket&logoColor=white" />
   </a>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -129,23 +129,26 @@
     <img alt="adobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
   </a>
   <a href="https://adobe.com/products/photoshop.html">
-    <img alt="PhotoShop" src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat-square&logo=adobephotoshop&logoColor=white" />
+    <img alt="PhotoShop" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   </a>
   <br>
-  <a href="https://adobe.com/products/photoshop.html">
+  <a href="https://www.microsoft.com/en-us/microsoft-365">
     <img alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
   </a>
-  <a href="https://adobe.com/products/photoshop.html">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/word">
     <img alt="word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
   </a>
-  <a href="https://adobe.com/products/photoshop.html">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
     <img alt="powerpoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   </a>
-  <a href="https://adobe.com/products/photoshop.html">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
     <img alt="excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   </a>
-  <a href="https://adobe.com/products/photoshop.html">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access">
     <img alt="access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/outlook">
+    <img alt="outlook" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
 </details>
 
