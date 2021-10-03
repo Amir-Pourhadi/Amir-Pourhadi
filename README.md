@@ -28,7 +28,7 @@
 
 <a href="https://code.visualstudio.com/">
   <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
-<a/>
+</a>
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
 
