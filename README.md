@@ -88,7 +88,7 @@
     <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
   </a>
   <a href="https://styled-components.com">
-    <img alt="Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components& logoColor=white" />
+    <img alt="Styled-Component" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   </a>
   <br>
   <a href="https://nodejs.org">
