@@ -1,33 +1,33 @@
 <div>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank">
     <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
   </a>
 
-  <a href="https://github.com/chetanraj/awesome-github-badges">
+  <a href="https://github.com/chetanraj/awesome-github-badges" target="blank">
     <img alt="love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
   </a>
 
-  <a href="https://badges.pufler.dev">
+  <a href="https://badges.pufler.dev" target="blank">
     <img alt="years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
   </a>
 
-  <a href="https://github.com/Amir-Pourhadi?tab=repositories">
+  <a href="https://github.com/Amir-Pourhadi?tab=repositories" target="blank">
     <img alt="repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
   </a>
 
-  <a href="https://badges.pufler.dev">
+  <a href="https://badges.pufler.dev" target="blank">
     <img alt="commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
   </a>
 
-  <a href="https://microsoft.com/en-us/windows">
+  <a href="https://microsoft.com/en-us/windows" target="blank">
     <img alt="windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   </a>
 
-  <a href="https://google.com/chrome" >
+  <a href="https://google.com/chrome"  target="blank">
     <img alt="chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
   </a>
 
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" target="blank">
     <img alt="vscode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
   </a>
 </div>
