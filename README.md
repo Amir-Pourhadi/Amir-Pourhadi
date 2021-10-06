@@ -154,88 +154,88 @@
   <summary><b>🔗 My Links</b></summary><br>
 
   <a href="https://t.me/AmirPourhadiOfficial">
-    <img height="40" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
+    <img height="50" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
   </a>
   <a href="https://facebook.com/AmirPourhadiOfficial">
-    <img height="40" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
+    <img height="50" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
   </a>
   <a href="https://twitter.com/AmirPourhadi">
-    <img height="40" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
+    <img height="50" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
   </a>
   <a href="https://instagram.com/amir.pourhadi.official">
-    <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
+    <img height="50" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
   </a>
   <a href="https://linkedin.com/in/amirpourhadi">
-    <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
+    <img height="50" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
   </a>
   <a href="https://pinterest.com/Amir_Pourhadi">
-    <img height="40" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
+    <img height="50" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
   </a>
   <a href="mailto:Alex.CE1379@Gmail.com">
-    <img height="40" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
+    <img height="50" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
   </a>
   <a href="https://reddit.com/u/AmirPourhadi">
-    <img height="40" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
+    <img height="50" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
   </a>
   <a href="https://sololearn.com/profile/19964067">
-    <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
+    <img height="50" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
   </a>
   <a href="https://github.com/Amir-Pourhadi">
-    <img height="40" alt="GitHub" title="GitHub" src="./images/github.svg" />
+    <img height="50" alt="GitHub" title="GitHub" src="./images/github.svg" />
   </a>
   <a href="https://gitlab.com/Amir-Pourhadi">
-    <img height="40" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
+    <img height="50" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
   </a>
   <a href="https://bitbucket.org/Amir-Pourhadi">
-    <img height="40" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
+    <img height="50" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
   </a>
   <a href="https://wakatime.com/AmirPourhadi">
-    <img height="40" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
+    <img height="50" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
   </a>
   <a href="https://freecodecamp.org/amirpourhadi">
-    <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
+    <img height="50" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
   </a>
   <a href="https://trello.com/amir_pourhadi_projects">
-    <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
+    <img height="50" alt="Trello" title="Trello" src="./images/trello.svg" />
   </a>
   <a href="https://codewars.com/users/AmirPourhadi">
-    <img height="40" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
+    <img height="50" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
   </a>
   <a href="https://stackoverflow.com/users/story/14383648">
-    <img height="40" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
+    <img height="50" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
   </a>
   <a href="https://meta.stackexchange.com/users/860571">
-    <img height="40" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
+    <img height="50" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
   </a>
   <a href="https://postman.com/AmirPourhadi">
-    <img height="40" alt="Postman" title="Postman" src="./images/postman.svg" />
+    <img height="50" alt="Postman" title="Postman" src="./images/postman.svg" />
   </a>
   <a href="https://codecademy.com/profiles/AmirPourhadi">
-    <img height="40" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
+    <img height="50" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
   </a>
   <a href="http://khanacademy.org/profile/AmirPourhadi">
-    <img height="40" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
+    <img height="50" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
   </a>
   <a href="https://codepen.io/AmirPourhadi">
-    <img height="40" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
+    <img height="50" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
   </a>
   <a href="https://udemy.com/user/amir-pourhadi">
-    <img height="40" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
+    <img height="50" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
   </a>
   <a href="https://open.spotify.com/user/ele6ia7z9ie34ipjmg62339sz?si=050835b00f474142">
-    <img height="40" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
+    <img height="50" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
   </a>
   <a href="https://discordapp.com/users/782137480475574272">
-    <img height="40" alt="Discord" title="Discord" src="./images/discord.svg" />
+    <img height="50" alt="Discord" title="Discord" src="./images/discord.svg" />
   </a>
   <a href="https://steamcommunity.com/id/AmirPourhadi">
-    <img height="40" alt="Steam" title="Steam" src="./images/steam.svg" />
+    <img height="50" alt="Steam" title="Steam" src="./images/steam.svg" />
   </a>
   <a href="https://coursera.org/user/c3aee4f1d1283b3c52664ee0ef750a9f">
-    <img height="40" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
+    <img height="50" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
   </a>
   <a href="https://join.skype.com/invite/AmtP0vzD7bWp">
-    <img height="40" alt="Skype" title="Skype" src="./images/skype.svg" />
+    <img height="50" alt="Skype" title="Skype" src="./images/skype.svg" />
   </a>
 </details>
 
