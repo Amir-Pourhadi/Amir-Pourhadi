@@ -1,5 +1,5 @@
 <div>
-  <a href="https://github.com/antonkomarev/github-profile-views-counter" target="_blank">
+  <a href="https://github.com/antonkomarev/github-profile-views-counter" target="/">
     <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
   </a>
 
