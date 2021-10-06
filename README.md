@@ -1,27 +1,30 @@
 <div>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
+    <img alt="Visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
   </a>
   <a href="https://github.com/chetanraj/awesome-github-badges">
-    <img alt="love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
+    <img alt="Love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
   </a>
   <a href="https://badges.pufler.dev">
-    <img alt="years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
   </a>
   <a href="https://github.com/Amir-Pourhadi?tab=repositories">
-    <img alt="repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+    <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
   </a>
   <a href="https://badges.pufler.dev">
-    <img alt="commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
   </a>
   <a href="https://microsoft.com/en-us/windows">
-    <img alt="windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+    <img alt="Windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   </a>
   <a href="https://google.com/chrome" >
-    <img alt="chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+    <img alt="Chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
   </a>
-  <a href="https://code.visualstudio.com/">
-    <img alt="vscode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+  <a href="https://code.visualstudio.com">
+    <img alt="VSCode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+  </a>
+  <a href="https://codewars.com/users/AmirPourhadi">
+    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/micro" />
   </a>
 </div>
   
@@ -31,6 +34,7 @@
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
+
   <a href="https://edclub.com/typingclub">
     <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
@@ -126,22 +130,22 @@
     <img alt="PhotoShop" title="A Raster Graphics Editor" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   </a>
   <br>
-  <a href="https://www.microsoft.com/en-us/microsoft-365">
+  <a href="https://microsoft.com/en-us/microsoft-365">
     <img alt="Office" title="A Family of Client Software, Server Software, and Services" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/word">
+  <a href="https://microsoft.com/en-us/microsoft-365/word">
     <img alt="Word" title="A Word Processing Software" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
+  <a href="https://microsoft.com/en-us/microsoft-365/powerpoint">
     <img alt="Powerpoint" title="A Powerful Slide Show Presentation Program" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
+  <a href="https://microsoft.com/en-us/microsoft-365/excel">
     <img alt="Excel" title="A Spread Sheet to Organize Data and Perform Financial Analysis" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/access">
+  <a href="https://microsoft.com/en-us/microsoft-365/access">
     <img alt="Access" title="An Information Management Tool, or Relational Database, Helps You Store Information for Reference, Reporting and Analysis" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
   </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/outlook">
+  <a href="https://microsoft.com/en-us/microsoft-365/outlook">
     <img alt="Outlook" title="A Personal Information Manager Software System" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
 </details>
@@ -150,7 +154,88 @@
   <summary><b>🔗 My Links</b></summary><br>
 
   <a href="https://t.me/AmirPourhadiOfficial">
-    <img height="40" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+    <img height="40" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
+  </a>
+  <a href="https://facebook.com/AmirPourhadiOfficial">
+    <img height="40" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
+  </a>
+  <a href="https://twitter.com/AmirPourhadi">
+    <img height="40" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
+  </a>
+  <a href="https://instagram.com/amir.pourhadi.official">
+    <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
+  </a>
+  <a href="https://linkedin.com/in/amirpourhadi">
+    <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
+  </a>
+  <a href="https://pinterest.com/Amir_Pourhadi">
+    <img height="40" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
+  </a>
+  <a href="mailto:Alex.CE1379@Gmail.com">
+    <img height="40" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
+  </a>
+  <a href="https://reddit.com/u/AmirPourhadi">
+    <img height="40" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
+  </a>
+  <a href="https://sololearn.com/profile/19964067">
+    <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
+  </a>
+  <a href="https://github.com/Amir-Pourhadi">
+    <img height="40" alt="GitHub" title="GitHub" src="./images/github.svg" />
+  </a>
+  <a href="https://gitlab.com/Amir-Pourhadi">
+    <img height="40" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
+  </a>
+  <a href="https://bitbucket.org/Amir-Pourhadi">
+    <img height="40" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
+  </a>
+  <a href="https://wakatime.com/AmirPourhadi">
+    <img height="40" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
+  </a>
+  <a href="https://freecodecamp.org/amirpourhadi">
+    <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
+  </a>
+  <a href="https://trello.com/amir_pourhadi_projects">
+    <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
+  </a>
+  <a href="https://codewars.com/users/AmirPourhadi">
+    <img height="40" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
+  </a>
+  <a href="https://stackoverflow.com/users/story/14383648">
+    <img height="40" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
+  </a>
+  <a href="https://meta.stackexchange.com/users/860571">
+    <img height="40" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
+  </a>
+  <a href="https://postman.com/AmirPourhadi">
+    <img height="40" alt="Postman" title="Postman" src="./images/postman.svg" />
+  </a>
+  <a href="https://codecademy.com/profiles/AmirPourhadi">
+    <img height="40" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
+  </a>
+  <a href="http://khanacademy.org/profile/AmirPourhadi">
+    <img height="40" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
+  </a>
+  <a href="https://codepen.io/AmirPourhadi">
+    <img height="40" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
+  </a>
+  <a href="https://udemy.com/user/amir-pourhadi">
+    <img height="40" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
+  </a>
+  <a href="https://open.spotify.com/user/ele6ia7z9ie34ipjmg62339sz?si=050835b00f474142">
+    <img height="40" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
+  </a>
+  <a href="https://discordapp.com/users/782137480475574272">
+    <img height="40" alt="Discord" title="Discord" src="./images/discord.svg" />
+  </a>
+  <a href="https://steamcommunity.com/id/AmirPourhadi">
+    <img height="40" alt="Steam" title="Steam" src="./images/steam.svg" />
+  </a>
+  <a href="https://coursera.org/user/c3aee4f1d1283b3c52664ee0ef750a9f">
+    <img height="40" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
+  </a>
+  <a href="https://join.skype.com/invite/AmtP0vzD7bWp">
+    <img height="40" alt="Skype" title="Skype" src="./images/skype.svg" />
   </a>
 </details>
 
@@ -158,7 +243,7 @@
   <summary><b>📈 My GitHub Stats</b></summary><br>
 
   <div>
-    <a href="https://github-readme-stats.vercel.app/">
+    <a href="https://github-readme-stats.vercel.app">
       <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -166,7 +251,7 @@
     </a>
   </div>
   <div>
-    <a href="https://github-readme-stats.vercel.app/">
+    <a href="https://github-readme-stats.vercel.app">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
     </a>
     <a href="https://wakatime.com/AmirPourhadi">
