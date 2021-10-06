@@ -175,6 +175,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
+    <br>
     <a href="https://freecodecamp.org/amirpourhadi">
       <img height="60" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
     </a>
@@ -204,6 +205,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
+    <br>
     <a href="https://join.skype.com/invite/AmtP0vzD7bWp">
       <img height="60" alt="Skype" title="Skype" src="./images/skype.svg" />
     </a>
@@ -229,6 +231,7 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
+    <br>
     <a href="https://trello.com/amir_pourhadi_projects">
       <img height="60" alt="Trello" title="Trello" src="./images/trello.svg" />
     </a>
@@ -249,6 +252,7 @@
       <img height="60" alt="Postman" title="Postman" src="./images/postman.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
     <br>
     <a href="https://github.com/Amir-Pourhadi">
       <img height="60" alt="GitHub" title="GitHub" src="./images/github.svg" />
