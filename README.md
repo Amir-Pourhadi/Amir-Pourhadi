@@ -33,7 +33,7 @@
   <summary><b>🎓 My Knowledge</b></summary><br>
 
   <a href="https://codewars.com/users/AmirPourhadi">
-    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/micro" />
+    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
   </a><br>
   
   <a href="https://edclub.com/typingclub">
