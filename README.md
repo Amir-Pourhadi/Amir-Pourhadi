@@ -1,33 +1,33 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img alt="visitors" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
+  <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
 </a>
 
 <a href="https://github.com/chetanraj/awesome-github-badges">
-  <img alt="love" src="https://img.shields.io/badge/Made%20With-Love-red" />
+  <img alt="love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
 </a>
 
 <a href="https://badges.pufler.dev">
-  <img alt="years" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+  <img alt="years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
 </a>
 
 <a href="https://github.com/Amir-Pourhadi?tab=repositories">
-  <img alt="repos" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+  <img alt="repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
 </a>
 
 <a href="https://badges.pufler.dev">
-  <img alt="commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+  <img alt="commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
 </a>
 
 <a href="https://microsoft.com/en-us/windows">
-  <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <img alt="windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
 </a>
 
 <a href="https://google.com/chrome" >
-  <img alt="chrome" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+  <img alt="chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
 </a>
 
 <a href="https://code.visualstudio.com/">
-  <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+  <img alt="vscode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
 </a>
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
@@ -38,7 +38,7 @@
   <summary><b>🎓 My Knowledge</b></summary><br>
 
   <a href="https://edclub.com/typingclub">
-    <img alt="fast typing" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
+    <img alt="Fast Typing" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
   <a href="https://prettier.io">
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
@@ -126,29 +126,37 @@
     <img alt="Trello" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
   </a>
   <a href="https://adobe.com/products/xd.html">
-    <img alt="adobeXD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+    <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
   </a>
   <a href="https://adobe.com/products/photoshop.html">
     <img alt="PhotoShop" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   </a>
   <br>
   <a href="https://www.microsoft.com/en-us/microsoft-365">
-    <img alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
+    <img alt="Office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/word">
-    <img alt="word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
+    <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoft-word&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/powerpoint">
-    <img alt="powerpoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
+    <img alt="Powerpoint" src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
-    <img alt="excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+    <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/access">
-    <img alt="access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
+    <img alt="Access" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
   </a>
   <a href="https://www.microsoft.com/en-us/microsoft-365/outlook">
-    <img alt="outlook" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+    <img alt="Outlook" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</details>
+
+<details>
+  <summary><b>🔗 My Links</b></summary><br>
+
+  <a href="https://t.me/AmirPourhadiOfficial">
+    <img height="50" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
   </a>
 </details>
 
@@ -174,7 +182,7 @@
 </details>
 
 <details>
-  <summary><b>🏆 My Github Profile Trophy</b></summary><br>
+  <summary><b>🏆 My Github Profile Trophies</b></summary><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
