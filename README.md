@@ -31,6 +31,7 @@
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
+  
   <a href="https://edclub.com/typingclub">
     <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
