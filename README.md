@@ -32,10 +32,6 @@
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
 
-  <a href="https://codewars.com/users/AmirPourhadi">
-    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
-  </a><br>
-  
   <a href="https://edclub.com/typingclub">
     <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
@@ -271,6 +267,10 @@
 
 <details>
   <summary><b>📊 My Coding Stats</b></summary><br>
+
+  <a href="https://codewars.com/users/AmirPourhadi">
+    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
+  </a><br>
   
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109234%20lines%20of%20code-blue)
