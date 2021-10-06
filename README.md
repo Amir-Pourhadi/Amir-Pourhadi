@@ -1,34 +1,36 @@
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-  <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
-</a>
+<div>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img alt="visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
+  </a>
 
-<a href="https://github.com/chetanraj/awesome-github-badges">
-  <img alt="love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
-</a>
+  <a href="https://github.com/chetanraj/awesome-github-badges">
+    <img alt="love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
+  </a>
 
-<a href="https://badges.pufler.dev">
-  <img alt="years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
-</a>
+  <a href="https://badges.pufler.dev">
+    <img alt="years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+  </a>
 
-<a href="https://github.com/Amir-Pourhadi?tab=repositories">
-  <img alt="repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
-</a>
+  <a href="https://github.com/Amir-Pourhadi?tab=repositories">
+    <img alt="repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+  </a>
 
-<a href="https://badges.pufler.dev">
-  <img alt="commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
-</a>
+  <a href="https://badges.pufler.dev">
+    <img alt="commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+  </a>
 
-<a href="https://microsoft.com/en-us/windows">
-  <img alt="windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
-</a>
+  <a href="https://microsoft.com/en-us/windows">
+    <img alt="windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  </a>
 
-<a href="https://google.com/chrome" >
-  <img alt="chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
-</a>
+  <a href="https://google.com/chrome" >
+    <img alt="chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+  </a>
 
-<a href="https://code.visualstudio.com/">
-  <img alt="vscode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
-</a>
+  <a href="https://code.visualstudio.com/">
+    <img alt="vscode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+  </a>
+</div>
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
 
