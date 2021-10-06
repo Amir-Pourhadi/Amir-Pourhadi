@@ -150,12 +150,12 @@
 <details>
   <summary><b>🔗 My Links</b></summary><br>
   <div align="center">
-    <a href="mailto:Alex.CE1379@Gmail.com">
-      <img height="60" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://t.me/AmirPourhadiOfficial">
       <img height="60" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:Alex.CE1379@Gmail.com">
+      <img height="60" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/amirpourhadi">
@@ -184,16 +184,16 @@
       <img height="60" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codewars.com/users/AmirPourhadi">
-      <img height="60" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://codecademy.com/profiles/AmirPourhadi">
       <img height="60" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://khanacademy.org/profile/AmirPourhadi">
       <img height="60" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://codewars.com/users/AmirPourhadi">
+      <img height="60" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://coursera.org/user/c3aee4f1d1283b3c52664ee0ef750a9f">
