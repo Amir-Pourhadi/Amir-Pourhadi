@@ -156,7 +156,7 @@
   <summary><b>🔗 My Links</b></summary><br>
 
   <a href="https://t.me/AmirPourhadiOfficial">
-    <img height="50" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
+    <img height="40" alt="Telegram" title="Telegram" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" />
   </a>
 </details>
 
