@@ -23,9 +23,6 @@
   <a href="https://code.visualstudio.com">
     <img alt="VSCode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
   </a>
-  <a href="https://codewars.com/users/AmirPourhadi">
-    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/micro" />
-  </a>
 </div>
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
@@ -35,6 +32,10 @@
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
 
+  <a href="https://codewars.com/users/AmirPourhadi">
+    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/micro" />
+  </a><br>
+  
   <a href="https://edclub.com/typingclub">
     <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
