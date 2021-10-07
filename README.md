@@ -294,7 +294,7 @@
 </details>
 
 <details>
-  <summary><b>⚡ My Recent Activity</b></summary>
+  <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [Amir-Pourhadi/jamesgeorge007](https://github.com/Amir-Pourhadi/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
