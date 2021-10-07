@@ -1,5 +1,0 @@
-settings:
-  max_lines: 5
-  date:
-    timezone: "GMT+03:30"
-    format: "dddd, mmmm dS, yyyy, H:MM"
