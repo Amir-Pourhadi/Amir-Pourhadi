@@ -12,8 +12,12 @@
     <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
   </a>
   <a href="https://badges.pufler.dev">
-    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=yellowgreen" />
+    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=green" />
   </a>
+  <a href="https://github.com/iampavangandhi/Gitwar">
+    <img alt="GitWar" title="My GitWar Score" src="https://gitwar.herokuapp.com/badge?username=Amir-Pourhadi&color=ff69b4&label=Profile+Score" />
+  </a>
+  <br>
   <a href="https://microsoft.com/en-us/windows">
     <img alt="Windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   </a>
