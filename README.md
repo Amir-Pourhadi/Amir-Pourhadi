@@ -301,8 +301,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Amir-Pourhadi/jamesgeorge007](https://github.com/Amir-Pourhadi/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
-2. 📔 Created new repository [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+1. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+2. 🔱 Forked [Amir-Pourhadi/jamesgeorge007](https://github.com/Amir-Pourhadi/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
