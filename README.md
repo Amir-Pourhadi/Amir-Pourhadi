@@ -301,8 +301,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
-2. 🔱 Forked [Amir-Pourhadi/jamesgeorge007](https://github.com/Amir-Pourhadi/jamesgeorge007) from [jamesgeorge007/jamesgeorge007](https://github.com/jamesgeorge007/jamesgeorge007)
+1. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/Hotel-Project/pull/3) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
+2. ⭐ Starred [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
