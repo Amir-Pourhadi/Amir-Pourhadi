@@ -151,123 +151,123 @@
   <summary><b>🔗 My Links</b></summary><br>
   <div align="center">
     <a href="https://t.me/AmirPourhadiOfficial">
-      <img height="60" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
+      <img height="50" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:Alex.CE1379@Gmail.com">
-      <img height="60" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
+      <img height="50" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/amirpourhadi">
-      <img height="60" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
+      <img height="50" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/amir.pourhadi.official">
-      <img height="60" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
+      <img height="50" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/AmirPourhadiOfficial">
-      <img height="60" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
+      <img height="50" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/AmirPourhadi">
-      <img height="60" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
+      <img height="50" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     <br>
     <a href="https://freecodecamp.org/amirpourhadi">
-      <img height="60" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
+      <img height="50" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://sololearn.com/profile/19964067">
-      <img height="60" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
+      <img height="50" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://codecademy.com/profiles/AmirPourhadi">
-      <img height="60" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
+      <img height="50" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="http://khanacademy.org/profile/AmirPourhadi">
-      <img height="60" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
+      <img height="50" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://codewars.com/users/AmirPourhadi">
-      <img height="60" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
+      <img height="50" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://coursera.org/user/c3aee4f1d1283b3c52664ee0ef750a9f">
-      <img height="60" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
+      <img height="50" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://udemy.com/user/amir-pourhadi">
-      <img height="60" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
+      <img height="50" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     <br>
     <a href="https://join.skype.com/invite/AmtP0vzD7bWp">
-      <img height="60" alt="Skype" title="Skype" src="./images/skype.svg" />
+      <img height="50" alt="Skype" title="Skype" src="./images/skype.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://open.spotify.com/user/ele6ia7z9ie34ipjmg62339sz?si=050835b00f474142">
-      <img height="60" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
+      <img height="50" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://steamcommunity.com/id/AmirPourhadi">
-      <img height="60" alt="Steam" title="Steam" src="./images/steam.svg" />
+      <img height="50" alt="Steam" title="Steam" src="./images/steam.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/782137480475574272">
-      <img height="60" alt="Discord" title="Discord" src="./images/discord.svg" />
+      <img height="50" alt="Discord" title="Discord" src="./images/discord.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://pinterest.com/Amir_Pourhadi">
-      <img height="60" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
+      <img height="50" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://reddit.com/u/AmirPourhadi">
-      <img height="60" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
+      <img height="50" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     <br>
     <a href="https://trello.com/amir_pourhadi_projects">
-      <img height="60" alt="Trello" title="Trello" src="./images/trello.svg" />
+      <img height="50" alt="Trello" title="Trello" src="./images/trello.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://stackoverflow.com/users/story/14383648">
-      <img height="60" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
+      <img height="50" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://meta.stackexchange.com/users/860571">
-      <img height="60" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
+      <img height="50" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://wakatime.com/AmirPourhadi">
-      <img height="60" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
+      <img height="50" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://postman.com/AmirPourhadi">
-      <img height="60" alt="Postman" title="Postman" src="./images/postman.svg" />
+      <img height="50" alt="Postman" title="Postman" src="./images/postman.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <br>
     <br>
     <a href="https://github.com/Amir-Pourhadi">
-      <img height="60" alt="GitHub" title="GitHub" src="./images/github.svg" />
+      <img height="50" alt="GitHub" title="GitHub" src="./images/github.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://gitlab.com/Amir-Pourhadi">
-      <img height="60" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
+      <img height="50" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://bitbucket.org/Amir-Pourhadi">
-      <img height="60" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
+      <img height="50" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://codepen.io/AmirPourhadi">
-      <img height="60" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
+      <img height="50" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
     </a>
   </div>
 </details>
@@ -291,6 +291,13 @@
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
+</details>
+
+<details>
+  <summary>⚡ Recent Activity</summary>
+
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 </details>
 
 <details>
@@ -362,7 +369,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
  Last Updated on 05/10/2021
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
     <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
