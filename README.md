@@ -301,8 +301,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/About-IMD/pull/2) in [Amir-Pourhadi/About-IMD](https://github.com/Amir-Pourhadi/About-IMD)
-2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/About-IMD/pull/1) in [Amir-Pourhadi/About-IMD](https://github.com/Amir-Pourhadi/About-IMD)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Amir-Pourhadi/pull/1) in [Amir-Pourhadi/Amir-Pourhadi](https://github.com/Amir-Pourhadi/Amir-Pourhadi)
+2. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/About-IMD/pull/2) in [Amir-Pourhadi/About-IMD](https://github.com/Amir-Pourhadi/About-IMD)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
