@@ -225,8 +225,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/About-IMD/pull/3) in [Amir-Pourhadi/About-IMD](https://github.com/Amir-Pourhadi/About-IMD)
-2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Amir-Pourhadi/pull/1) in [Amir-Pourhadi/Amir-Pourhadi](https://github.com/Amir-Pourhadi/Amir-Pourhadi)
+1. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/APS-Interview/pull/2) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
+2. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Analogue-Clock/pull/1) in [Amir-Pourhadi/Analogue-Clock](https://github.com/Amir-Pourhadi/Analogue-Clock)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
