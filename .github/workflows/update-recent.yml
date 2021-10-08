@@ -16,5 +16,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          max_lines: 5
+          MAX_LINES: 5
           
