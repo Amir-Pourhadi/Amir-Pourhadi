@@ -14,9 +14,6 @@
   <a href="https://badges.pufler.dev">
     <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=green" />
   </a>
-  <a href="https://github.com/iampavangandhi/Gitwar">
-    <img alt="GitWar" title="My GitWar Score" src="https://gitwar.herokuapp.com/badge?username=Amir-Pourhadi&color=ff69b4&label=Profile+Score" />
-  </a>
   <br>
   <a href="https://wakatime.com/AmirPourhadi">
     <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total time coded since Jul 19 2021" alt="Time Coded" />
