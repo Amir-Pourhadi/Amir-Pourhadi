@@ -160,43 +160,43 @@
     <a href="https://t.me/AmirPourhadiOfficial">
       <img height="40" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:Alex.CE1379@Gmail.com">
       <img height="40" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/amirpourhadi">
       <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://trello.com/amir_pourhadi_projects">
       <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/amir.pourhadi.official">
       <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://facebook.com/AmirPourhadiOfficial">
       <img height="40" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/AmirPourhadi">
       <img height="40" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://freecodecamp.org/amirpourhadi">
       <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://sololearn.com/profile/19964067">
       <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://steamcommunity.com/id/AmirPourhadi">
       <img height="40" alt="Steam" title="Steam" src="./images/steam.svg" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/782137480475574272">
       <img height="40" alt="Discord" title="Discord" src="./images/discord.svg" />
     </a>
