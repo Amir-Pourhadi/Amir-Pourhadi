@@ -48,13 +48,13 @@
   <a href="https://git-scm.com">
     <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com">
+  <a href="https://github.com/Amir-Pourhadi">
     <img alt="GitHub" title="Best Internet Hosting for VCS" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
   </a>
-  <a href="https://gitlab.com">
+  <a href="https://gitlab.com/Amir-Pourhadi">
     <img alt="GitLab" title="An Internet Hosting for VCS" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
   </a>
-  <a href="https://bitbucket.org">
+  <a href="https://bitbucket.org/Amir-Pourhadi">
     <img alt="BitBucket" title="Simple Internet Hosting for VCS" src="https://img.shields.io/badge/bitbucket-%230047B3?style=flat-square&logo=bitbucket&logoColor=white" />
   </a>
   <br>
@@ -169,6 +169,10 @@
       <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://trello.com/amir_pourhadi_projects">
+      <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://instagram.com/amir.pourhadi.official">
       <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
     </a>
@@ -181,8 +185,6 @@
       <img height="40" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    <br>
     <a href="https://freecodecamp.org/amirpourhadi">
       <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
     </a>
@@ -191,90 +193,12 @@
       <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codecademy.com/profiles/AmirPourhadi">
-      <img height="40" alt="CodeCademy" title="CodeCademy" src="./images/codecademy.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="http://khanacademy.org/profile/AmirPourhadi">
-      <img height="40" alt="KhanAcademy" title="KhanAcademy" src="./images/khanacademy.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codewars.com/users/AmirPourhadi">
-      <img height="40" alt="CodeWars" title="CodeWars" src="./images/codewars.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://coursera.org/user/c3aee4f1d1283b3c52664ee0ef750a9f">
-      <img height="40" alt="Coursera" title="Coursera" src="./images/coursera.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://udemy.com/user/amir-pourhadi">
-      <img height="40" alt="Udemy" title="Udemy" src="./images/udemy.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    <br>
-    <a href="https://join.skype.com/invite/AmtP0vzD7bWp">
-      <img height="40" alt="Skype" title="Skype" src="./images/skype.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://open.spotify.com/user/ele6ia7z9ie34ipjmg62339sz?si=050835b00f474142">
-      <img height="40" alt="Spotify" title="Spotify" src="./images/spotify.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://steamcommunity.com/id/AmirPourhadi">
       <img height="40" alt="Steam" title="Steam" src="./images/steam.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://discordapp.com/users/782137480475574272">
       <img height="40" alt="Discord" title="Discord" src="./images/discord.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://pinterest.com/Amir_Pourhadi">
-      <img height="40" alt="Pinterest" title="Pinterest" src="./images/pinterest.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://reddit.com/u/AmirPourhadi">
-      <img height="40" alt="Reddit" title="Reddit" src="./images/reddit.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    <br>
-    <a href="https://trello.com/amir_pourhadi_projects">
-      <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/story/14383648">
-      <img height="40" alt="StackOverFlow" title="StackOverFlow" src="./images/stackoverflow.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://meta.stackexchange.com/users/860571">
-      <img height="40" alt="StackExchange" title="StackExchange" src="./images/stackexchange.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://wakatime.com/AmirPourhadi">
-      <img height="40" alt="WakaTime" title="WakaTime" src="./images/wakatime.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://postman.com/AmirPourhadi">
-      <img height="40" alt="Postman" title="Postman" src="./images/postman.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <br>
-    <br>
-    <a href="https://github.com/Amir-Pourhadi">
-      <img height="40" alt="GitHub" title="GitHub" src="./images/github.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://gitlab.com/Amir-Pourhadi">
-      <img height="40" alt="GitLab" title="GitLab" src="./images/gitlab.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://bitbucket.org/Amir-Pourhadi">
-      <img height="40" alt="BitBucket" title="BitBucket" src="./images/bitbucket.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://codepen.io/AmirPourhadi">
-      <img height="40" alt="CodePen" title="CodePen" src="./images/codepen.svg" />
     </a>
   </div>
 </details>
