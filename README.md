@@ -225,11 +225,6 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Calculator/pull/1) in [Amir-Pourhadi/Calculator](https://github.com/Amir-Pourhadi/Calculator)
-2. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Barber-Shop/pull/2) in [Amir-Pourhadi/Barber-Shop](https://github.com/Amir-Pourhadi/Barber-Shop)
-3. ❌ Closed PR [#3](https://github.com/Amir-Pourhadi/Barber-Shop/pull/3) in [Amir-Pourhadi/Barber-Shop](https://github.com/Amir-Pourhadi/Barber-Shop)
-4. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/APS-Interview/pull/3) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
-5. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/APS-Interview/pull/2) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
@@ -246,61 +241,7 @@
   <summary><b>📊 My Coding Stats</b></summary><br>
 
   <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109067%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-🌆 Daytime    273 commits    ███████░░░░░░░░░░░░░░░░░░   31.16% 
-🌃 Evening    365 commits    ██████████░░░░░░░░░░░░░░░   41.67% 
-🌙 Night      119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.58%
-
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-Tuesday      164 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.72% 
-Wednesday    97 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-Thursday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Friday       98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Saturday     165 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.84% 
-Sunday       148 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.89%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 15 hrs 18 mins      █████████████████████░░░░   86.67% 
-XML                      1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
-Other                    1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   6.02% 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77% 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
-
-🐱‍💻 Projects: 
-Amir-Pourhadi            17 hrs 32 mins      ████████████████████████░   99.4% 
-Todo-List                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               16 repos            ██████████████░░░░░░░░░░░   57.14% 
-HTML                     8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
-
-```
-
-
-
- Last Updated on 08/10/2021
-<!--END_SECTION:waka-->
+  <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
     <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
