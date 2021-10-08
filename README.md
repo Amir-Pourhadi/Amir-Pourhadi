@@ -18,7 +18,7 @@
     <img alt="GitWar" title="My GitWar Score" src="https://gitwar.herokuapp.com/badge?username=Amir-Pourhadi&color=ff69b4&label=Profile+Score" />
   </a>
   <br>
-  <a href="https://wakatime.com/@547ff532-32f5-41bf-aba6-cbc2785b8253">
+  <a href="https://wakatime.com/AmirPourhadi">
     <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total time coded since Jul 19 2021" alt="Time Coded" />
   </a>
   <a href="https://microsoft.com/en-us/windows">
