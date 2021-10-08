@@ -225,8 +225,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/APS-Interview/pull/3) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
-2. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/APS-Interview/pull/2) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
+1. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Calculator/pull/1) in [Amir-Pourhadi/Calculator](https://github.com/Amir-Pourhadi/Calculator)
+2. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Barber-Shop/pull/2) in [Amir-Pourhadi/Barber-Shop](https://github.com/Amir-Pourhadi/Barber-Shop)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
