@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Contact-Manager/pull/1) in [Amir-Pourhadi/Contact-Manager](https://github.com/Amir-Pourhadi/Contact-Manager)
-2. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Contact-Manager/pull/2) in [Amir-Pourhadi/Contact-Manager](https://github.com/Amir-Pourhadi/Contact-Manager)
-3. ❌ Closed PR [#3](https://github.com/Amir-Pourhadi/Contact-Manager/pull/3) in [Amir-Pourhadi/Contact-Manager](https://github.com/Amir-Pourhadi/Contact-Manager)
-4. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/Contact-Manager/pull/4) in [Amir-Pourhadi/Contact-Manager](https://github.com/Amir-Pourhadi/Contact-Manager)
-5. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Codewars-Answers/pull/1) in [Amir-Pourhadi/Codewars-Answers](https://github.com/Amir-Pourhadi/Codewars-Answers)
+1. 💪 Opened PR [#5](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/5) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+2. 💪 Opened PR [#4](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/4) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+3. 💪 Opened PR [#3](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/3) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+4. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/1) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+5. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/2) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
