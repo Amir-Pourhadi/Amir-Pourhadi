@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Drum-Kit/pull/2) in [Amir-Pourhadi/Drum-Kit](https://github.com/Amir-Pourhadi/Drum-Kit)
-2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Drum-Kit/pull/1) in [Amir-Pourhadi/Drum-Kit](https://github.com/Amir-Pourhadi/Drum-Kit)
-3. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Digital-Clock/pull/1) in [Amir-Pourhadi/Digital-Clock](https://github.com/Amir-Pourhadi/Digital-Clock)
-4. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/DataStructure-Exercises/pull/1) in [Amir-Pourhadi/DataStructure-Exercises](https://github.com/Amir-Pourhadi/DataStructure-Exercises)
-5. 💪 Opened PR [#5](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/5) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+1. ✔️ Closed issue [#3](https://github.com/Amir-Pourhadi/github-slideshow/issues/3) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+2. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+3. ❌ Closed PR [#5](https://github.com/Amir-Pourhadi/github-slideshow/pull/5) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+4. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/github-slideshow/pull/6) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+5. ❌ Closed PR [#7](https://github.com/Amir-Pourhadi/github-slideshow/pull/7) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
