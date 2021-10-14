@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#3](https://github.com/Amir-Pourhadi/github-slideshow/issues/3) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-2. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-3. ❌ Closed PR [#5](https://github.com/Amir-Pourhadi/github-slideshow/pull/5) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-4. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/github-slideshow/pull/6) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-5. ❌ Closed PR [#7](https://github.com/Amir-Pourhadi/github-slideshow/pull/7) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Headset-Page/pull/1) in [Amir-Pourhadi/Headset-Page](https://github.com/Amir-Pourhadi/Headset-Page)
+2. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Headset-Page/pull/2) in [Amir-Pourhadi/Headset-Page](https://github.com/Amir-Pourhadi/Headset-Page)
+3. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Guess-the-Number/pull/1) in [Amir-Pourhadi/Guess-the-Number](https://github.com/Amir-Pourhadi/Guess-the-Number)
+4. ✔️ Closed issue [#3](https://github.com/Amir-Pourhadi/github-slideshow/issues/3) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+5. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
