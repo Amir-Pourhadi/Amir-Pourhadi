@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Image-Slider/pull/1) in [Amir-Pourhadi/Image-Slider](https://github.com/Amir-Pourhadi/Image-Slider)
-2. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Image-Slider/pull/2) in [Amir-Pourhadi/Image-Slider](https://github.com/Amir-Pourhadi/Image-Slider)
-3. ❌ Closed PR [#8](https://github.com/Amir-Pourhadi/Hotel-Project/pull/8) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
-4. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/Hotel-Project/pull/4) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
-5. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Hotel-Project/pull/1) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
+1. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Interactive-Quiz/pull/1) in [Amir-Pourhadi/Interactive-Quiz](https://github.com/Amir-Pourhadi/Interactive-Quiz)
+2. ❌ Closed PR [#1](https://github.com/alirezadalvand/slider/pull/1) in [alirezadalvand/slider](https://github.com/alirezadalvand/slider)
+3. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Image-Slider/pull/1) in [Amir-Pourhadi/Image-Slider](https://github.com/Amir-Pourhadi/Image-Slider)
+4. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Image-Slider/pull/2) in [Amir-Pourhadi/Image-Slider](https://github.com/Amir-Pourhadi/Image-Slider)
+5. ❌ Closed PR [#8](https://github.com/Amir-Pourhadi/Hotel-Project/pull/8) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
