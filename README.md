@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Amir-Pourhadi/markdown-portfolio](https://github.com/Amir-Pourhadi/markdown-portfolio)
-2. 🎉 Merged PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-3. 💪 Opened PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-4. ✔️ Closed issue [#1](https://github.com/Amir-Pourhadi/github-slideshow/issues/1) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-5. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/github-slideshow/pull/2) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+1. ⭐ Starred [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+2. 📔 Created new repository [Amir-Pourhadi/markdown-portfolio](https://github.com/Amir-Pourhadi/markdown-portfolio)
+3. 🎉 Merged PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+4. 💪 Opened PR [#4](https://github.com/Amir-Pourhadi/github-slideshow/pull/4) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+5. ✔️ Closed issue [#1](https://github.com/Amir-Pourhadi/github-slideshow/issues/1) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
