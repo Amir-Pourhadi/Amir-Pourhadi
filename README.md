@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/Amir-Pourhadi/github-slideshow/issues/1) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-2. ✔️ Closed issue [#6](https://github.com/Amir-Pourhadi/SourceCodes/issues/6) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
-3. ✔️ Closed issue [#11](https://github.com/Amir-Pourhadi/SourceCodes/issues/11) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
-4. ✔️ Closed issue [#10](https://github.com/Amir-Pourhadi/SourceCodes/issues/10) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
-5. ✔️ Closed issue [#9](https://github.com/Amir-Pourhadi/SourceCodes/issues/9) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
+1. 🎉 Merged PR [#10](https://github.com/Amir-Pourhadi/github-slideshow/pull/10) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+2. 💪 Opened PR [#10](https://github.com/Amir-Pourhadi/github-slideshow/pull/10) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+3. ✔️ Closed issue [#1](https://github.com/Amir-Pourhadi/github-slideshow/issues/1) in [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+4. ✔️ Closed issue [#6](https://github.com/Amir-Pourhadi/SourceCodes/issues/6) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
+5. ✔️ Closed issue [#11](https://github.com/Amir-Pourhadi/SourceCodes/issues/11) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
