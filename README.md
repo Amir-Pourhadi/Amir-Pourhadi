@@ -225,11 +225,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/TV-Show/pull/1) in [Amir-Pourhadi/TV-Show](https://github.com/Amir-Pourhadi/TV-Show)
-2. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Responsive-Navbar/pull/1) in [Amir-Pourhadi/Responsive-Navbar](https://github.com/Amir-Pourhadi/Responsive-Navbar)
-3. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/React-Todo-List/pull/1) in [Amir-Pourhadi/React-Todo-List](https://github.com/Amir-Pourhadi/React-Todo-List)
-4. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/React-Todo-List/pull/2) in [Amir-Pourhadi/React-Todo-List](https://github.com/Amir-Pourhadi/React-Todo-List)
-5. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/React-Starter-Pack/pull/1) in [Amir-Pourhadi/React-Starter-Pack](https://github.com/Amir-Pourhadi/React-Starter-Pack)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Todo-List/pull/1) in [Amir-Pourhadi/Todo-List](https://github.com/Amir-Pourhadi/Todo-List)
+2. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Todo-List/pull/1) in [Amir-Pourhadi/Todo-List](https://github.com/Amir-Pourhadi/Todo-List)
+3. ❌ Closed PR [#2](https://github.com/Amir-Pourhadi/Todo-List/pull/2) in [Amir-Pourhadi/Todo-List](https://github.com/Amir-Pourhadi/Todo-List)
+4. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/TV-Show/pull/1) in [Amir-Pourhadi/TV-Show](https://github.com/Amir-Pourhadi/TV-Show)
+5. ❌ Closed PR [#1](https://github.com/Amir-Pourhadi/Responsive-Navbar/pull/1) in [Amir-Pourhadi/Responsive-Navbar](https://github.com/Amir-Pourhadi/Responsive-Navbar)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
