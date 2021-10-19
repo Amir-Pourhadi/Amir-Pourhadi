@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❗️ Opened issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
-2. 🎉 Merged PR [#13](https://github.com/Amir-Pourhadi/SourceCodes/pull/13) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
-3. 📔 Created new repository [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-4. ⭐ Starred [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
-5. 📔 Created new repository [Amir-Pourhadi/markdown-portfolio](https://github.com/Amir-Pourhadi/markdown-portfolio)
+1. ✔️ Closed issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
+2. ❗️ Opened issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
+3. 🎉 Merged PR [#13](https://github.com/Amir-Pourhadi/SourceCodes/pull/13) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
+4. 📔 Created new repository [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+5. ⭐ Starred [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
