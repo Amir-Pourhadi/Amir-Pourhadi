@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/3) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
-2. ✔️ Closed issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
-3. ❗️ Opened issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
-4. 🎉 Merged PR [#13](https://github.com/Amir-Pourhadi/SourceCodes/pull/13) in [Amir-Pourhadi/SourceCodes](https://github.com/Amir-Pourhadi/SourceCodes)
-5. 📔 Created new repository [Amir-Pourhadi/github-slideshow](https://github.com/Amir-Pourhadi/github-slideshow)
+1. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/6) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+2. 🎉 Merged PR [#4](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/4) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+3. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/3) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+4. ✔️ Closed issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
+5. ❗️ Opened issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
