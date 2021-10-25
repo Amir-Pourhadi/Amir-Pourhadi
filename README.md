@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/6) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
-2. 🎉 Merged PR [#4](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/4) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
-3. 🎉 Merged PR [#3](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/3) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
-4. ✔️ Closed issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
-5. ❗️ Opened issue [#1](https://github.com/ari3223/Avin/issues/1) in [ari3223/Avin](https://github.com/ari3223/Avin)
+1. ❌ Closed PR [#156](https://github.com/CodeYourFuture/bikes-for-refugees/pull/156) in [CodeYourFuture/bikes-for-refugees](https://github.com/CodeYourFuture/bikes-for-refugees)
+2. 🎉 Merged PR [#8](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/8) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+3. ❌ Closed PR [#7](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/7) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+4. 🎉 Merged PR [#5](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/5) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+5. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/6) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
