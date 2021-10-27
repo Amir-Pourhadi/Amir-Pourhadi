@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-1)
-2. 🔱 Forked [Amir-Pourhadi/JavaScript-Core-1-Homework](https://github.com/Amir-Pourhadi/JavaScript-Core-1-Homework) from [CodeYourFuture/JavaScript-Core-1-Homework](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework)
-3. ❌ Closed PR [#156](https://github.com/CodeYourFuture/bikes-for-refugees/pull/156) in [CodeYourFuture/bikes-for-refugees](https://github.com/CodeYourFuture/bikes-for-refugees)
-4. 🎉 Merged PR [#8](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/8) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
-5. ❌ Closed PR [#7](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework/pull/7) in [Amir-Pourhadi/CYF-HTML-CSS-Homework](https://github.com/Amir-Pourhadi/CYF-HTML-CSS-Homework)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2/pull/1) in [Amir-Pourhadi/CYF-PracticeJS-2](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2)
+2. 🔱 Forked [Amir-Pourhadi/JavaScript-Core-3-Homework](https://github.com/Amir-Pourhadi/JavaScript-Core-3-Homework) from [CodeYourFuture/JavaScript-Core-3-Homework](https://github.com/CodeYourFuture/JavaScript-Core-3-Homework)
+3. 🔱 Forked [Amir-Pourhadi/JavaScript-Core-2-Homework](https://github.com/Amir-Pourhadi/JavaScript-Core-2-Homework) from [CodeYourFuture/JavaScript-Core-2-Homework](https://github.com/CodeYourFuture/JavaScript-Core-2-Homework)
+4. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-1)
+5. 🔱 Forked [Amir-Pourhadi/JavaScript-Core-1-Homework](https://github.com/Amir-Pourhadi/JavaScript-Core-1-Homework) from [CodeYourFuture/JavaScript-Core-1-Homework](https://github.com/CodeYourFuture/JavaScript-Core-1-Homework)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
