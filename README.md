@@ -3,16 +3,16 @@
     <img alt="Visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
   </a>
   <a href="https://github.com/chetanraj/awesome-github-badges">
-    <img alt="Love" title="Always Coding with Love" src="https://img.shields.io/badge/Made%20With-Love-red" />
+    <img alt="Love" title="Always Coding with Love" src="https://img.shields.io/badge/Code%20with-Love-red?logo=southwestairlines" />
   </a>
   <a href="https://badges.pufler.dev">
-    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange" />
+    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange&logo=skyliner&logoColor=white" />
   </a>
   <a href="https://github.com/Amir-Pourhadi?tab=repositories">
-    <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success" />
+    <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success&logo=github" />
   </a>
   <a href="https://badges.pufler.dev">
-    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=green" />
+    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/Amir-Pourhadi?color=green&logo=hotjar&logoColor=white" />
   </a>
   <br>
   <a href="https://wakatime.com/AmirPourhadi">
