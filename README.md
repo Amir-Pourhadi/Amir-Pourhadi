@@ -216,8 +216,8 @@
     <a href="https://github-readme-stats.vercel.app">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
     </a>
-    <a height="158" href="https://wakatime.com/AmirPourhadi">
-      <img height="157" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
+    <a height="157" href="https://wakatime.com/AmirPourhadi">
+      <img height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
 </details>
