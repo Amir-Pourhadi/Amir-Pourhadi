@@ -206,18 +206,18 @@
 
   <div>
     <a href="https://github-readme-stats.vercel.app">
-      <img height="164" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
+      <img height="162" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="165" src="http://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi&theme=radical&hide_border=true" />
+      <img height="163" src="http://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi&theme=radical&hide_border=true" />
     </a>
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
     </a>
-    <a height="163" href="https://wakatime.com/AmirPourhadi">
-      <img height="162" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
+    <a height="161" href="https://wakatime.com/AmirPourhadi">
+      <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
 </details>
