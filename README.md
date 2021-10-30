@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3/pull/1) in [Amir-Pourhadi/CYF-PracticeJS-3](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3)
-2. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-3. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-3](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3)
-4. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-2](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2)
-5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2/pull/1) in [Amir-Pourhadi/CYF-PracticeJS-2](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2)
+1. 📔 Created new repository [Amir-Pourhadi/Learn-JavaScript](https://github.com/Amir-Pourhadi/Learn-JavaScript)
+2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3/pull/1) in [Amir-Pourhadi/CYF-PracticeJS-3](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3)
+3. ⭐ Starred [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+4. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-3](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3)
+5. ⭐ Starred [Amir-Pourhadi/CYF-PracticeJS-2](https://github.com/Amir-Pourhadi/CYF-PracticeJS-2)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
