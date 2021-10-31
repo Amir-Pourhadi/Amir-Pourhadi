@@ -228,9 +228,9 @@
   <!--RECENT_ACTIVITY:start-->
 1. 📔 Created new repository [Amir-Pourhadi/Personal-Website](https://github.com/Amir-Pourhadi/Personal-Website)
 2. 📔 Created new repository [Amir-Pourhadi/Personal-Website](https://github.com/Amir-Pourhadi/Personal-Website)
-3. 📔 Created new repository [Amir-Pourhadi/Learn-JavaScript](https://github.com/Amir-Pourhadi/Learn-JavaScript)
+3. 📔 Created new repository [Amir-Pourhadi/Personal-Website](https://github.com/Amir-Pourhadi/Personal-Website)
 4. 📔 Created new repository [Amir-Pourhadi/Learn-JavaScript](https://github.com/Amir-Pourhadi/Learn-JavaScript)
-5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3/pull/1) in [Amir-Pourhadi/CYF-PracticeJS-3](https://github.com/Amir-Pourhadi/CYF-PracticeJS-3)
+5. 📔 Created new repository [Amir-Pourhadi/Learn-JavaScript](https://github.com/Amir-Pourhadi/Learn-JavaScript)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
