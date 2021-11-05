@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Amir-Pourhadi/Git-Learning](https://github.com/Amir-Pourhadi/Git-Learning)
-2. ⭐ Starred [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
-3. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
-4. 📔 Created new repository [Amir-Pourhadi/Personal-API](https://github.com/Amir-Pourhadi/Personal-API)
-5. 💪 Opened PR [#1](https://github.com/Amir-Pourhadi/Personal-Website/pull/1) in [Amir-Pourhadi/Personal-Website](https://github.com/Amir-Pourhadi/Personal-Website)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Git-Learning/pull/1) in [Amir-Pourhadi/Git-Learning](https://github.com/Amir-Pourhadi/Git-Learning)
+2. 📔 Created new repository [Amir-Pourhadi/Git-Learning](https://github.com/Amir-Pourhadi/Git-Learning)
+3. ⭐ Starred [sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+4. ⭐ Starred [enaqx/awesome-react](https://github.com/enaqx/awesome-react)
+5. 📔 Created new repository [Amir-Pourhadi/Personal-API](https://github.com/Amir-Pourhadi/Personal-API)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
