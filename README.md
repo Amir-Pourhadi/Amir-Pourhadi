@@ -226,11 +226,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
-2. ❗️ Opened issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
-3. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/User-Manager/pull/1) in [Amir-Pourhadi/User-Manager](https://github.com/Amir-Pourhadi/User-Manager)
-4. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/About-IMD/pull/4) in [Amir-Pourhadi/About-IMD](https://github.com/Amir-Pourhadi/About-IMD)
-5. 📔 Created new repository [Amir-Pourhadi/User-Manager](https://github.com/Amir-Pourhadi/User-Manager)
+1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-React-Hotel/pull/1) in [Amir-Pourhadi/CYF-React-Hotel](https://github.com/Amir-Pourhadi/CYF-React-Hotel)
+2. 🔱 Forked [Amir-Pourhadi/cyf-hotel-react](https://github.com/Amir-Pourhadi/cyf-hotel-react) from [CodeYourFuture/cyf-hotel-react](https://github.com/CodeYourFuture/cyf-hotel-react)
+3. ✔️ Closed issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
+4. ❗️ Opened issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
+5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/User-Manager/pull/1) in [Amir-Pourhadi/User-Manager](https://github.com/Amir-Pourhadi/User-Manager)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
