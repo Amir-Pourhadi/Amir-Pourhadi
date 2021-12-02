@@ -90,6 +90,9 @@
   <a href="https://styled-components.com">
     <img alt="Styled-Component" title="A Library Utilize Tagged Template Literals to Style Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   </a>
+  <a href="https://styled-components.com">
+    <img alt="Styled-Component" title="A Library Utilize Tagged Template Literals to Style Components" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  </a>
   <br>
   <a href="https://nodejs.org">
     <img alt="NodeJS" title="A Back-End JS Runtime Environment, Runs on the V8 Engine and Executes JS code Outside Web Browser" src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" />
