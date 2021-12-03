@@ -229,11 +229,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#326](https://github.com/CodeYourFuture/cyf-hotel-react/pull/326) in [CodeYourFuture/cyf-hotel-react](https://github.com/CodeYourFuture/cyf-hotel-react)
-2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-React-Hotel/pull/1) in [Amir-Pourhadi/CYF-React-Hotel](https://github.com/Amir-Pourhadi/CYF-React-Hotel)
-3. 🔱 Forked [Amir-Pourhadi/cyf-hotel-react](https://github.com/Amir-Pourhadi/cyf-hotel-react) from [CodeYourFuture/cyf-hotel-react](https://github.com/CodeYourFuture/cyf-hotel-react)
-4. ✔️ Closed issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
-5. ❗️ Opened issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
+1. 📔 Created new repository [Amir-Pourhadi/Ninja-Food](https://github.com/Amir-Pourhadi/Ninja-Food)
+2. 💪 Opened PR [#326](https://github.com/CodeYourFuture/cyf-hotel-react/pull/326) in [CodeYourFuture/cyf-hotel-react](https://github.com/CodeYourFuture/cyf-hotel-react)
+3. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/CYF-React-Hotel/pull/1) in [Amir-Pourhadi/CYF-React-Hotel](https://github.com/Amir-Pourhadi/CYF-React-Hotel)
+4. 🔱 Forked [Amir-Pourhadi/cyf-hotel-react](https://github.com/Amir-Pourhadi/cyf-hotel-react) from [CodeYourFuture/cyf-hotel-react](https://github.com/CodeYourFuture/cyf-hotel-react)
+5. ✔️ Closed issue [#13](https://github.com/Amir-Pourhadi/Hotel-Project/issues/13) in [Amir-Pourhadi/Hotel-Project](https://github.com/Amir-Pourhadi/Hotel-Project)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
