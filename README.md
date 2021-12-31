@@ -33,7 +33,7 @@
 
 > **I'm Amir, 💻 Full Stack Web Developer from Esfahan, Iran.**\
 > Looking forward to an amazing journey of learning skills.\
-> **Current Position**: FrontEnd Developer & Web Designer at Esfahan University.
+> **Current Job Position**: Junior FrontEnd Developer & Web Designer at Esfahan University (Robintel).
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
