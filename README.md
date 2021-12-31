@@ -230,11 +230,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Amir-Pourhadi/Learn-Grid-System](https://github.com/Amir-Pourhadi/Learn-Grid-System)
-2. ❌ Closed PR [#8](https://github.com/Amir-Pourhadi/APS-Interview/pull/8) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
-3. ❌ Closed PR [#7](https://github.com/Amir-Pourhadi/APS-Interview/pull/7) in [Amir-Pourhadi/APS-Interview](https://github.com/Amir-Pourhadi/APS-Interview)
-4. 🔱 Forked [Amir-Pourhadi/tailwind-dashboard](https://github.com/Amir-Pourhadi/tailwind-dashboard) from [fireship-io/tailwind-dashboard](https://github.com/fireship-io/tailwind-dashboard)
-5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Ninja-Food/pull/1) in [Amir-Pourhadi/Ninja-Food](https://github.com/Amir-Pourhadi/Ninja-Food)
+1. ⭐ Starred [Amir-Pourhadi/Personal-Website](https://github.com/Amir-Pourhadi/Personal-Website)
+2. ⭐ Starred [Amir-Pourhadi/Node-Logger-App](https://github.com/Amir-Pourhadi/Node-Logger-App)
+3. ⭐ Starred [Amir-Pourhadi/Node-Routing-App](https://github.com/Amir-Pourhadi/Node-Routing-App)
+4. ⭐ Starred [Amir-Pourhadi/User-Manager](https://github.com/Amir-Pourhadi/User-Manager)
+5. ⭐ Starred [Amir-Pourhadi/CYF-React-Hotel](https://github.com/Amir-Pourhadi/CYF-React-Hotel)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
