@@ -18,8 +18,8 @@
   <a href="https://wakatime.com/AmirPourhadi">
     <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total time coded since Jul 19 2021" alt="Time Coded" />
   </a>
-  <a href="https://microsoft.com/en-us/windows">
-    <img alt="Windows" title="Using Windows 10" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+  <a href="https://ubuntu.com/">
+    <img alt="Ubuntu" title="Using Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
   </a>
   <a href="https://google.com/chrome" >
     <img alt="Chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
