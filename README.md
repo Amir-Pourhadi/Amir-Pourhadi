@@ -29,7 +29,7 @@
   </a>
 </div>
   
-<h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">😎 /> </h1>
+<h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">😎 /> </h1>
 
 > **I'm Amir, 💻 Full Stack Web Developer from Esfahan, Iran.**\
 > Looking forward to an amazing journey of learning skills.\
