@@ -230,8 +230,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Learn-WebSocket/pull/1) in [Amir-Pourhadi/Learn-WebSocket](https://github.com/Amir-Pourhadi/Learn-WebSocket)
-2. 📔 Created new repository [Amir-Pourhadi/Selenium-Demo](https://github.com/Amir-Pourhadi/Selenium-Demo)
+1. 📔 Created new repository [Amir-Pourhadi/Finance-Logger](https://github.com/Amir-Pourhadi/Finance-Logger)
+2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Learn-WebSocket/pull/1) in [Amir-Pourhadi/Learn-WebSocket](https://github.com/Amir-Pourhadi/Learn-WebSocket)
 3. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
 4. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Learn-Sass/pull/1) in [Amir-Pourhadi/Learn-Sass](https://github.com/Amir-Pourhadi/Learn-Sass)
 5. 🔱 Forked [Amir-Pourhadi/cypress-tutorial-build-todo-starter](https://github.com/Amir-Pourhadi/cypress-tutorial-build-todo-starter) from [cypress-io/cypress-tutorial-build-todo-starter](https://github.com/cypress-io/cypress-tutorial-build-todo-starter)
