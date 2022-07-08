@@ -142,6 +142,9 @@
   <a href="https://trello.com">
     <img alt="Trello" title="A Web-based Kanban Project Management Application" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
   </a>
+  <a href="https://www.figma.com">
+    <img alt="Figma" title="A vector graphics editor and prototyping tool" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  </a>
   <a href="https://adobe.com/products/xd.html">
     <img alt="Adobe XD" title="A Vector-Based User Experience Design Tool for Web and Mobile Apps" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
   </a>
