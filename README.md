@@ -79,6 +79,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JS" title="A High-Level, Often Just-in-Time Compiled and Multi-Paradigm Programming Language" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   </a>
+  <a href="https://www.typescriptlang.org">
+    <img alt="TS" title="TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale." src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  </a>
   <a href="https://jquery.com">
     <img alt="Jquery" title="A JS Library Designed to Simplify HTML DOM Tree Traversal and Manipulation, Event Handling, CSS Animation and Ajax" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   </a>
