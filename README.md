@@ -45,6 +45,9 @@
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
 
+  <a href="https://www.linux.com">
+    <img alt="Linux" title="Linux is a family of open-source Unix-like operating systems based on the Linux kernel" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  </a>
   <a href="https://edclub.com/typingclub">
     <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
