@@ -31,9 +31,16 @@
   
 <h1> < Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27">😎 /> </h1>
 
-> **I'm Amir, 💻 Full Stack Web Developer from Esfahan, Iran.**\
+> **I'm Amir, 💻 Front End Web Developer from Esfahan, Iran.**\
+\
+> As a React Developer, I'm creative, hardworking, and passionate.\
+> Coding efficiently and neatly is one of my top priorities.\
+> It would be a great opportunity for me to work in the U.S. or England.\
+> Consequently, I am enhancing my skills and expanding my knowledge in preparation for my migration there.\
+> I enjoy working in a team. Therefore, no matter how big or small the task is, I will always be ready to assist my teammates.\
 > Looking forward to an amazing journey of learning skills.\
-> **Current Job Position**: Junior FrontEnd Developer & Web Designer at Esfahan University (Robintel).
+\
+> **Current Job Position**: **Open to Work**
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
