@@ -40,7 +40,7 @@
 > I enjoy working in a team. Therefore, no matter how big or small the task is, I will always be ready to **assist my teammates**.\
 > Looking forward to an **amazing journey** of learning skills.\
 \
-> **Current Job Position**: **Open to Work**
+> **Current Job Position**: **Front End Developer at IDmelon**
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
