@@ -246,11 +246,11 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [Amir-Pourhadi/ReactGroup](https://github.com/Amir-Pourhadi/ReactGroup) from [amirho3einb/project-group](https://github.com/amirho3einb/project-group)
-2. ⭐ Starred [hassansaber/nodejs-course](https://github.com/hassansaber/nodejs-course)
-3. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Space-Finder/pull/2) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
-4. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Space-Finder/pull/1) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
-5. ⭐ Starred [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
+1. 💪 Opened PR [#1](https://github.com/amirho3einb/project-group/pull/1) in [amirho3einb/project-group](https://github.com/amirho3einb/project-group)
+2. 🔱 Forked [Amir-Pourhadi/ReactGroup](https://github.com/Amir-Pourhadi/ReactGroup) from [amirho3einb/project-group](https://github.com/amirho3einb/project-group)
+3. ⭐ Starred [hassansaber/nodejs-course](https://github.com/hassansaber/nodejs-course)
+4. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Space-Finder/pull/2) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
+5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Space-Finder/pull/1) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
   <!--RECENT_ACTIVITY:end-->
   
 </details>
