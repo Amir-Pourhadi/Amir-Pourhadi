@@ -298,10 +298,10 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               2 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-panel                    2 hrs 13 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -318,7 +318,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/12/2022 01:00:06 UTC
+ Last Updated on 09/12/2022 01:02:02 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
