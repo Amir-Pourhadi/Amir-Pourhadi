@@ -298,10 +298,10 @@ Sunday          47 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-CSS                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-app                      35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
@@ -318,7 +318,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/02/2023 01:02:53 UTC
+ Last Updated on 09/02/2023 01:03:38 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
