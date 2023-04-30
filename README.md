@@ -246,7 +246,7 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/Form-Validation](https://github.com/Amir-Pourhadi/Form-Validation)
+1. 📔 Created new repository [Amir-Pourhadi/MC-Helper](https://github.com/Amir-Pourhadi/MC-Helper)
 2. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Form-Validation/pull/1) in [Amir-Pourhadi/Form-Validation](https://github.com/Amir-Pourhadi/Form-Validation)
 3. 📔 Created new repository [Amir-Pourhadi/Form-Validation](https://github.com/Amir-Pourhadi/Form-Validation)
 4. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Space-Finder/pull/2) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
