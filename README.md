@@ -267,7 +267,7 @@
   <summary><b>📊 My Coding Stats</b></summary><br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C513%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C515%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621.9%20thousand%20lines%20of%20code-blue)
 
@@ -296,13 +296,13 @@ Sunday                   350 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 4 hrs 29 mins       ████████████████████░░░░░   79.65 % 
-TypeScript               56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+TypeScript               2 hrs 41 mins       ████████████████░░░░░░░░░   63.74 % 
+Markdown                 1 hr 18 mins        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
 
 🐱‍💻 Projects: 
-pinpoint-templates       4 hrs 41 mins       █████████████████████░░░░   83.19 % 
-Sentispec-Access         56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Sentispec-Access         2 hrs 42 mins       ████████████████░░░░░░░░░   64.05 % 
+pinpoint-templates       1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   35.95 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -318,7 +318,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2023 00:45:28 UTC
+ Last Updated on 10/11/2023 00:44:55 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
