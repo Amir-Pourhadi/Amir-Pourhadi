@@ -267,7 +267,7 @@
   <summary><b>📊 My Coding Stats</b></summary><br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C632%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C630%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-621.9%20thousand%20lines%20of%20code-blue)
 
@@ -296,13 +296,11 @@ Sunday                   350 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-C                        3 hrs 39 mins       ███████████████████░░░░░░   76.92 % 
-textmate                 1 hr 4 mins         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+C                        3 hrs 33 mins       ███████████████████░░░░░░   75.32 % 
+textmate                 1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
 
 🐱‍💻 Projects: 
-C-Midterm                4 hrs 38 mins       ████████████████████████░   97.71 % 
-Unknown Project          6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+C-Midterm                4 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -318,7 +316,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/01/2024 00:49:00 UTC
+ Last Updated on 18/01/2024 00:48:23 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
