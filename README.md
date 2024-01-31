@@ -296,13 +296,10 @@ Sunday                   290 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               1 hr 6 mins         ████████████████░░░░░░░░░   63.54 % 
-TypeScript               37 mins             █████████░░░░░░░░░░░░░░░░   35.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Codewars-Answers         1 hr 6 mins         ████████████████░░░░░░░░░   63.26 % 
-LeetCode-Answers         38 mins             █████████░░░░░░░░░░░░░░░░   36.74 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -318,7 +315,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/01/2024 00:44:22 UTC
+ Last Updated on 31/01/2024 00:44:41 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
