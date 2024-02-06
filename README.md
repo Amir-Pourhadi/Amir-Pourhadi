@@ -246,10 +246,10 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
   <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-2. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-3. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
-4. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/Space-Finder/pull/2) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
+1. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
+2. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
+3. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
+4. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
 5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Space-Finder/pull/1) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
   <!--RECENT_ACTIVITY:end-->
   
