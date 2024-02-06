@@ -254,10 +254,10 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/Codewars-Answers](https://github.com/Amir-Pourhadi/Codewars-Answers)
-2. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
-3. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-4. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
+1. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/FitPlus/pull/2) in [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
+2. ⭐ Starred [Amir-Pourhadi/Codewars-Answers](https://github.com/Amir-Pourhadi/Codewars-Answers)
+3. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
+4. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
