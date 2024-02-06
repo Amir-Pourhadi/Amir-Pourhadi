@@ -3,10 +3,10 @@
     <img alt="Visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=Amir-Pourhadi&label=Visitors&color=blueviolet" />
   </a>
   <a href="https://github.com/chetanraj/awesome-github-badges">
-    <img alt="Love" title="Always Coding with Love" src="https://img.shields.io/badge/Code%20with-Love-red?logo=southwestairlines" />
-  </a>
+    <img alt="Love" title="Always Coding with Love <3" src="https://img.shields.io/badge/Code_with-Love-red?logo=southwestairlines" />
+  </a> 
   <a href="https://badges.pufler.dev">
-    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange&logo=skyliner&logoColor=white" />
+    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/Amir-Pourhadi?color=orange&logo=dreamstime&logoColor=white" />
   </a>
   <a href="https://github.com/Amir-Pourhadi?tab=repositories">
     <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/Amir-Pourhadi?color=success&logo=github" />
@@ -16,22 +16,22 @@
   </a>
   <br>
   <a href="https://wakatime.com/AmirPourhadi">
-    <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total time coded since Jul 19 2021" alt="Time Coded" />
+    <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total Time Coded" />
   </a>
-  <a href="https://ubuntu.com/">
-    <img alt="Ubuntu" title="Using Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+  <a href="https://microsoft.com/software-download/windows11">
+    <img alt="Ubuntu" title="Using Windows 11" src="https://img.shields.io/badge/Windows_11-004Fe1?logo=windows&logoColor=white" />
   </a>
   <a href="https://google.com/chrome" >
-    <img alt="Chrome" title="My Browser" src="https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white" />
+    <img alt="Chrome" title="My Browser" src="https://img.shields.io/badge/Google_Chrome-E62D2A?logo=GoogleChrome&logoColor=white" />
   </a>
-  <a href="https://code.visualstudio.com">
-    <img alt="VSCode" title="My Editor" src="https://img.shields.io/badge/-VS%20Code-23A9F2?logo=Visual%20Studio%20Code&logoColor=white" />
+  <a href="https://jetbrains.com/webstorm">
+    <img alt="WebStorm" title="My Editor" src="https://img.shields.io/badge/WebStorm-2086D7?logo=WebStorm&logoColor=white" />
   </a>
 </div>
-  
-<h1> < HelloWorld! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27">😎 /> </h1>
 
-> **I'm Amir, 💻 Front End Web Developer from Esfahan, Iran.**\
+<h1> < HelloWorld! <img src="./images/Wave.gif" width="27" alt="wave">😎 /> </h1>
+
+> **I'm Amir, 💻 Front End Web Developer from Isfahan, Iran.**\
 \
 > As a **React Developer**, I'm creative, hardworking, and passionate.\
 > Coding efficiently and **neatly** is one of my top priorities.\
@@ -40,31 +40,34 @@
 > I enjoy working in a team. Therefore, no matter how big or small the task is, I will always be ready to **assist my teammates**.\
 > Looking forward to an **amazing journey** of learning skills.\
 \
-> **Current Job Position**: **Front End Developer at IDmelon**
+> **Current Job Position**: **Front End Developer at UpWork**
 
 <details>
   <summary><b>🎓 My Knowledge</b></summary><br>
 
-  <a href="https://www.linux.com">
-    <img alt="Linux" title="Linux is a family of open-source Unix-like operating systems based on the Linux kernel" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <a href="https://linux.com">
+    <img alt="Linux" title="Linux is a Family of Open-source Unix-like Operating Systems Based on the Linux Kernel" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   </a>
   <a href="https://edclub.com/typingclub">
-    <img alt="Fast Typing" title="Typing Club" src="https://img.shields.io/badge/-Fast%20Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
+    <img alt="Fast Typing" title="10 Finger Typing" src="https://img.shields.io/badge/Fas_Typing-important?style=flat-square&logo=speedtest&logoColor=white" />
   </a>
   <a href="https://prettier.io">
-    <img alt="Prettier" title="Code Formatter" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+    <img alt="Prettier" title="Code Formatter" src="https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   </a>
   <a href="https://git-scm.com">
-    <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   </a>
-  <a href="https://github.com/Amir-Pourhadi">
-    <img alt="GitHub" title="Best Internet Hosting for VCS" src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <a href="https://github.com">
+    <img alt="GitHub" title="Best Internet Hosting for VCS" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white" />
   </a>
-  <a href="https://gitlab.com/Amir-Pourhadi">
-    <img alt="GitLab" title="An Internet Hosting for VCS" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab" />
+  <a href="https://gitlab.com">
+    <img alt="GitLab" title="An Internet Hosting for VCS" src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab" />
   </a>
-  <a href="https://bitbucket.org/Amir-Pourhadi">
-    <img alt="BitBucket" title="Simple Internet Hosting for VCS" src="https://img.shields.io/badge/bitbucket-%230047B3?style=flat-square&logo=bitbucket&logoColor=white" />
+  <a href="https://bitbucket.org/">
+    <img alt="BitBucket" title="Simple Internet Hosting for VCS" src="https://img.shields.io/badge/Bitbucket-%230047B3?style=flat-square&logo=bitbucket&logoColor=white" />
+  </a>
+  <a href="https://azure.microsoft.com">
+    <img alt="Azure" title="A Cloud Computing Platform" src="https://img.shields.io/badge/Azure-008AD7?style=flat-square&logo=microsoft-azure&logoColor=white" />
   </a>
   <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -82,11 +85,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JS" title="A High-Level, Often Just-in-Time Compiled and Multi-Paradigm Programming Language" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   </a>
-  <a href="https://www.typescriptlang.org">
+  <a href="https://typescriptlang.org">
     <img alt="TS" title="TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale." src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
   <a href="https://jquery.com">
     <img alt="Jquery" title="A JS Library Designed to Simplify HTML DOM Tree Traversal and Manipulation, Event Handling, CSS Animation and Ajax" src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
+  </a>
+  <a href="https://cypress.io">
+    <img alt="Cypress" title="A Frontend Test Automation Tool for Regression Testing of Web Applications" src="https://img.shields.io/badge/Cypress-171717?style=flat-square&logo=cypress&logoColor=white" />
   </a>
   <br>
   <a href="https://reactjs.org">
@@ -96,16 +102,19 @@
     <img alt="Redux" title="A JS Library for Managing and Centralizing Application State" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
   </a>
   <a href="https://npmjs.com">
-    <img alt="NPM" title="A Package Manager for JS" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+    <img alt="NPM" title="A Package Manager for JS" src="https://img.shields.io/badge/NPM-CB0000?style=flat-square&logo=npm&logoColor=white" />
   </a>
   <a href="https://reactrouter.com">
-    <img alt="React-Router" title="A Library to Implement Dynamic Routing in Web Apps" src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" />
+    <img alt="React Router" title="A Library to Implement Dynamic Routing in Web Apps" src="https://img.shields.io/badge/React_Router-F44250?style=flat-square&logo=react-router&logoColor=white" />
+  </a>
+  <a href="https://tanstack.com/query">
+    <img alt="React Query" title="A powerful library developed by TanStack that simplifies data fetching and state management in React applications." src="https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
   </a>
   <a href="https://styled-components.com">
-    <img alt="Styled-Component" title="A Library Utilize Tagged Template Literals to Style Components" src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
+    <img alt="Styled-Component" title="A Library Utilize Tagged Template Literals to Style Components" src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat-square&logo=styled-components&logoColor=white" />
   </a>
-  <a href="https://styled-components.com">
-    <img alt="Styled-Component" title="A Library Utilize Tagged Template Literals to Style Components" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <a href="https://tailwindcss.com/">
+    <img alt="Tailwindcss" title="An Open Source CSS Framework" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   </a>
   <br>
   <a href="https://nodejs.org">
@@ -115,13 +124,13 @@
     <img alt="Babel" title="A Popular TransCompiler for Using Newest Features of JS" src="https://img.shields.io/badge/babel-yellow?style=flat-square&logo=babel&logoColor=white" />
   </a>
   <a href="https://webpack.js.org">
-    <img alt="WebPack" title="A JS Module Bundler" src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white" />
+    <img alt="WebPack" title="A JS Module Bundler" src="https://img.shields.io/badge/WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white" />
   </a>
   <a href="https://eslint.org">
-    <img alt="ESLint" title="A Static Code Analysis Tool for Identifying Problematic Patterns Found in JS Code" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
+    <img alt="ESLint" title="A Static Code Analysis Tool for Identifying Problematic Patterns Found in JS Code" src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white" />
   </a>
   <a href="https://expressjs.com">
-    <img alt="Express" title="A Back-End Web Application Framework for Node JS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
+    <img alt="Express" title="A Back-End Web Application Framework for Node JS" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white" />
   </a>
   <a href="https://mongodb.com">
     <img alt="MongoDB" title="A NoSQL Database Program" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
@@ -140,13 +149,13 @@
     <img alt="Ubuntu" title="A Linux Distribution" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   </a>
   <a href="https://trello.com">
-    <img alt="Trello" title="A Web-based Kanban Project Management Application" src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
+    <img alt="Trello" title="A Web-based Kanban Project Management Application" src="https://img.shields.io/badge/Trello-0079BF?style=flat-square&logo=Trello&logoColor=white" />
   </a>
-  <a href="https://www.figma.com">
+  <a href="https://figma.com">
     <img alt="Figma" title="A vector graphics editor and prototyping tool" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   </a>
   <a href="https://adobe.com/products/xd.html">
-    <img alt="Adobe XD" title="A Vector-Based User Experience Design Tool for Web and Mobile Apps" src="https://img.shields.io/badge/Adobe%20XD-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6" />
+    <img alt="Adobe XD" title="A Vector-Based User Experience Design Tool for Web and Mobile Apps" src="https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=AdobeXD&logoColor=#FF61F6" />
   </a>
   <a href="https://adobe.com/products/photoshop.html">
     <img alt="PhotoShop" title="A Raster Graphics Editor" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
@@ -170,6 +179,9 @@
   <a href="https://microsoft.com/en-us/microsoft-365/outlook">
     <img alt="Outlook" title="A Personal Information Manager Software System" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
+  <a href="https://app.powerbi.com">
+    <img alt="Power Bi" title="An Interactive Data Visualization Software Product with a Primary Focus on Business Intelligence" src="https://img.shields.io/badge/Power_Bi-e9b51c?style=flat-square&logo=powerbi&logoColor=white" />
+  </a>
 </details>
 
 <details>
@@ -187,11 +199,7 @@
       <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://trello.com/amir_pourhadi_projects">
-      <img height="40" alt="Trello" title="Trello" src="./images/trello.svg" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://instagram.com/amir.pourhadi.official">
+    <a href="https://instagram.com/_amir_pourhadi">
       <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
     </a>
     &nbsp;&nbsp;
@@ -199,8 +207,8 @@
       <img height="40" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://twitter.com/AmirPourhadi">
-      <img height="40" alt="Twitter" title="Twitter" src="./images/twitter.svg" />
+    <a href="https://x.com/AmirPourhadi">
+      <img height="40" alt="X" title="X" src="./images/X.svg" />
     </a>
     &nbsp;&nbsp;
     <a href="https://freecodecamp.org/amirpourhadi">
@@ -226,18 +234,18 @@
 
   <div>
     <a href="https://github-readme-stats.vercel.app">
-      <img height="160" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
+      <img alt="GitHub Stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Amir-Pourhadi&theme=radical&hide_border=true&count_private=true&show_icons=true" />
     </a>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img height="161" src="http://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi&theme=radical&hide_border=true" />
+      <img height="161" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Amir-Pourhadi&theme=radical&hide_border=true" />
     </a>
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
+      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
     </a>
-    <a height="157" href="https://wakatime.com/AmirPourhadi">
-      <img height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
+    <a href="https://wakatime.com/AmirPourhadi">
+      <img alt="Wakatime Stats" height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
 </details>
@@ -245,82 +253,28 @@
 <details>
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
-  <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
-2. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-3. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-4. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
-5. 🎉 Merged PR [#1](https://github.com/Amir-Pourhadi/Space-Finder/pull/1) in [Amir-Pourhadi/Space-Finder](https://github.com/Amir-Pourhadi/Space-Finder)
-  <!--RECENT_ACTIVITY:end-->
-  
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
 </details>
 
 <details>
   <summary><b>🏆 My Github Profile Trophies</b></summary><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
+    <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=Amir-Pourhadi&theme=radical&margin-w=30&no-frame=true" />
   </a>
 </details>
 
 <details>
   <summary><b>📊 My Coding Stats</b></summary><br>
 
-  <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C614%20hrs%2040%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-600.6%20thousand%20lines%20of%20code-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                602 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-🌆 Daytime                807 commits         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
-🌃 Evening                1073 commits        ██████████░░░░░░░░░░░░░░░   39.62 % 
-🌙 Night                  226 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Tuesday                  537 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Wednesday                387 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-Thursday                 368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   469 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               24 repos            ███████████████░░░░░░░░░░   58.54 % 
-HTML                     11 repos            ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-```
-
-
-
-
- Last Updated on 06/02/2024 00:43:43 UTC
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
     <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/AmirPourhadi/badges/large" />
   </a><br>
 
-  [](https://hit.yhype.me/github/profile?user_id=48559675)
+[](https://hit.yhype.me/github/profile?user_id=48559675)
 </details>
