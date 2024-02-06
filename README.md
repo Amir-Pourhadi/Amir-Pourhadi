@@ -254,10 +254,10 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
-2. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-3. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
-4. ⭐ Starred [laurent22/joplin](https://github.com/laurent22/joplin)
+1. ⭐ Starred [Amir-Pourhadi/Codewars-Answers](https://github.com/Amir-Pourhadi/Codewars-Answers)
+2. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
+3. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
+4. 📔 Created new repository [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
