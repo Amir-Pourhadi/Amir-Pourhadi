@@ -254,10 +254,10 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/Amir-Pourhadi/FitPlus/pull/2) in [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
-2. ⭐ Starred [Amir-Pourhadi/Codewars-Answers](https://github.com/Amir-Pourhadi/Codewars-Answers)
-3. ⭐ Starred [Amir-Pourhadi/FitPlus](https://github.com/Amir-Pourhadi/FitPlus)
-4. ⭐ Starred [Amir-Pourhadi/Snapgram](https://github.com/Amir-Pourhadi/Snapgram)
+1. ❌ Closed PR [#3](https://github.com/Amir-Pourhadi/Ninja-Food/pull/3) in [Amir-Pourhadi/Ninja-Food](https://github.com/Amir-Pourhadi/Ninja-Food)
+2. ❌ Closed PR [#4](https://github.com/Amir-Pourhadi/Ninja-Food/pull/4) in [Amir-Pourhadi/Ninja-Food](https://github.com/Amir-Pourhadi/Ninja-Food)
+3. ❌ Closed PR [#6](https://github.com/Amir-Pourhadi/Learn-WebSocket/pull/6) in [Amir-Pourhadi/Learn-WebSocket](https://github.com/Amir-Pourhadi/Learn-WebSocket)
+4. ❌ Closed PR [#5](https://github.com/Amir-Pourhadi/Learn-WebSocket/pull/5) in [Amir-Pourhadi/Learn-WebSocket](https://github.com/Amir-Pourhadi/Learn-WebSocket)
 <!--RECENT_ACTIVITY:end-->
 
 </details>
