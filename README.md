@@ -242,10 +242,10 @@
   </div>
   <div>
     <a href="https://github-readme-stats.vercel.app">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
+      <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-Pourhadi&theme=radical&hide_border=true&layout=compact" />
     </a>
     <a href="https://wakatime.com/AmirPourhadi">
-      <img alt="Wakatime Stats" height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
+      <img align="center" alt="Wakatime Stats" height="156" src="https://github-readme-stats.vercel.app/api/wakatime?username=AmirPourhadi&theme=radical&hide_border=true&langs_count=6&layout=compact" />
     </a>
   </div>
 </details>
