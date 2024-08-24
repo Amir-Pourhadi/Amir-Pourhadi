@@ -303,11 +303,10 @@ Sunday                   223 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               53 mins             ██████████████████████░░░   87.72 % 
-JSON                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sentispec-Access         1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -323,7 +322,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/08/2024 00:54:40 UTC
+ Last Updated on 24/08/2024 00:53:31 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
