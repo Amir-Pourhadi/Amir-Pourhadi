@@ -274,40 +274,7 @@
   <summary><b>📊 My Coding Stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%203%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-364.9%20thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                351 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-🌆 Daytime                606 commits         ████████░░░░░░░░░░░░░░░░░   31.56 % 
-🌃 Evening                784 commits         ██████████░░░░░░░░░░░░░░░   40.83 % 
-🌙 Night                  179 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   178 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Tuesday                  340 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Friday                   259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Saturday                 396 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Sunday                   223 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
@@ -322,7 +289,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 01:02:23 UTC
+ Last Updated on 22/10/2024 01:01:26 UTC
 <!--END_SECTION:waka-->
 
   <a href="https://codewars.com/users/AmirPourhadi">
