@@ -254,8 +254,8 @@
   <summary><b>⚡ My Recent Activity</b></summary><br>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [Amir-Pourhadi/FT-Report](https://github.com/Amir-Pourhadi/FT-Report)
-2. ❌ Closed PR [#2](https://github.com/banirezaie/js-2-2/pull/2) in [banirezaie/js-2-2](https://github.com/banirezaie/js-2-2)
+1. 📔 Created new repository [Amir-Pourhadi/MC-LogChecker](https://github.com/Amir-Pourhadi/MC-LogChecker)
+2. 📔 Created new repository [Amir-Pourhadi/FT-Report](https://github.com/Amir-Pourhadi/FT-Report)
 3. ❌ Closed PR [#1](https://github.com/fatemeh79sargolzaii/homework1/pull/1) in [fatemeh79sargolzaii/homework1](https://github.com/fatemeh79sargolzaii/homework1)
 4. ❌ Closed PR [#2](https://github.com/banirezaie/js-2-1/pull/2) in [banirezaie/js-2-1](https://github.com/banirezaie/js-2-1)
 <!--RECENT_ACTIVITY:end-->
